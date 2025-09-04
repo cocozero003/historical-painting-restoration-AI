@@ -1,4 +1,4 @@
-# AI Restoration of 14th–16th Century Paintings
+# AI Restoration of Paintings
 
 **Complete GitHub-Ready Repository for AI Painting Restoration with UI and Models**
 
